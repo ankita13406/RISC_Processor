@@ -28,5 +28,5 @@ Verilog HDL
 Xilinx Vivado
 
 
-FPGA Board
+FPGA Board(Spartan-7)
 
