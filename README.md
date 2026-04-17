@@ -9,14 +9,15 @@ Instructions are fetched from instruction memory, decoded, and executed through 
 
 The complete design was simulated and successfully deployed on an FPGA using Xilinx Vivado, demonstrating real-time instruction execution and proper control flow handling.
 
-=> Features
+# Features
+
 Custom 8-bit RISC architecture
 FSM-based control unit
 Modular Verilog design
 Supports arithmetic, logic, multiplication, and memory operations
 FPGA implementation and real-time testing
 
-=> Tools & Technologies
+#  Tools & Technologies
 Verilog HDL
 Xilinx Vivado
 FPGA Board
