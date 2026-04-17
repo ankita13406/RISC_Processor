@@ -12,13 +12,21 @@ The complete design was simulated and successfully deployed on an FPGA using Xil
 # Features
 
 Custom 8-bit RISC architecture
+
 FSM-based control unit
+
 Modular Verilog design
+
 Supports arithmetic, logic, multiplication, and memory operations
+
 FPGA implementation and real-time testing
 
 #  Tools & Technologies
 Verilog HDL
+
+
 Xilinx Vivado
+
+
 FPGA Board
 
