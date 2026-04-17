@@ -1,1 +1,1 @@
-# RISC_Processor
+# RISC_Processor_8bit
